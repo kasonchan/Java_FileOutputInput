@@ -1,0 +1,20 @@
+Script started on Sun 02 Jun 2013 05:44:10 PM CDT
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ make clean FileOI
+rm -f *.class
+javac FileOI.java
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ java FileOI Number.txt Name.txt Grades
+4, Bird, A 
+20, Louis, A 
+3, Bernice, B 
+1, Osborn, C 
+5, Connor, A 
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ cat Output.txt 
+4, Bird, A 
+20, Louis, A 
+3, Bernice, B 
+1, Osborn, C 
+5, Connor, A 
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ exit
+exit
+
+Script done on Sun 02 Jun 2013 05:44:48 PM CDT
