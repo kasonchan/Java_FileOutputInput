@@ -1,20 +1,33 @@
-Script started on Sun 02 Jun 2013 05:44:10 PM CDT
+Script started on Sun 02 Jun 2013 11:08:26 PM CDT
 ]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ make clean FileOI
 rm -f *.class
 javac FileOI.java
-]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ java FileOI Number.txt Name.txt Grades
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ java FileOI join Number.txt Name.txt Grades[1@,[1@ 
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ java FileOI , join Number.txt Name.txt Grades[C[1P[1P[C[C[C[C[C[1@,[1@ 
 4, Bird, A 
 20, Louis, A 
 3, Bernice, B 
 1, Osborn, C 
 5, Connor, A 
-]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ cat Output.txt 
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ cat Output.txt
 4, Bird, A 
 20, Louis, A 
 3, Bernice, B 
 1, Osborn, C 
 5, Connor, A 
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ cat Output.txtjava FileOI join , Number.txt Name.txt Grades[C[1P[1@"[1@"
+4 Bird A 
+20 Louis A 
+3 Bernice B 
+1 Osborn C 
+5 Connor A 
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ cat Output.txt
+4 Bird A 
+20 Louis A 
+3 Bernice B 
+1 Osborn C 
+5 Connor A 
 ]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ exit
 exit
 
-Script done on Sun 02 Jun 2013 05:44:48 PM CDT
+Script done on Sun 02 Jun 2013 11:09:39 PM CDT
