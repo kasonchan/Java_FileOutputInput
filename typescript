@@ -1,33 +1,62 @@
-Script started on Sun 02 Jun 2013 11:08:26 PM CDT
-]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ make clean FileOI
+Script started on Mon 03 Jun 2013 05:02:57 PM CDT
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ make clean FileOI FileOIDemo
 rm -f *.class
-javac FileOI.java
-]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ java FileOI join Number.txt Name.txt Grades[1@,[1@ 
-]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ java FileOI , join Number.txt Name.txt Grades[C[1P[1P[C[C[C[C[C[1@,[1@ 
-4, Bird, A 
-20, Louis, A 
-3, Bernice, B 
-1, Osborn, C 
-5, Connor, A 
-]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ cat Output.txt
-4, Bird, A 
-20, Louis, A 
-3, Bernice, B 
-1, Osborn, C 
-5, Connor, A 
-]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ cat Output.txtjava FileOI join , Number.txt Name.txt Grades[C[1P[1@"[1@"
-4 Bird A 
-20 Louis A 
-3 Bernice B 
-1 Osborn C 
-5 Connor A 
-]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ cat Output.txt
-4 Bird A 
-20 Louis A 
-3 Bernice B 
-1 Osborn C 
-5 Connor A 
+javac FileOI.java 
+javac FileOIDemo.java
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ java FileOIDemo , [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kmake clean FileOI FileOIDemoexit[Kcat Number.txt java FileOIDemo split , Output Number.txt Grades.txt Name.txt[1P[1P[1P[1P[1P[1@j[1@o[1@i[1@n[C[C[1P[1@"[1@"
+4 A Bird  
+20 A Louis  
+3 B Bernice  
+1 C Osborn  
+5 A Connor  
+10 B Jack 
+9 A Vicky 
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ cat Output
+4 A Bird  
+20 A Louis  
+3 B Bernice  
+1 C Osborn  
+5 A Connor  
+10 B Jack 
+9 A Vicky 
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ rm Number.txt Grades.txt Name.txt 
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ ls
+FileOI.class  FileOIDemo.class  FileOIDemo.java  FileOI.java  makefile  Output  typescript
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ lsrm Number.txt Grades.txt Name.txt cat Output[Kjava FileOIDemo join "" Output Number.txt Grades.txt Name.txt[C[C[1P[1P[1P[1P[1@s[1@p[1@l[1@i[1@t
+4 A Bird  
+20 A Louis  
+3 B Bernice  
+1 C Osborn  
+5 A Connor  
+10 B Jack 
+9 A Vicky 
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ ls
+FileOI.class  FileOIDemo.class  FileOIDemo.java  FileOI.java  Grades.txt  makefile  Name.txt  Number.txt  Output  typescript
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ cat Grades.txt 
+A
+A
+B
+C
+A
+B
+A
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ cat Number.txt 
+4
+20
+3
+1
+5
+10
+9
+]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ cat Name.txt 
+Bird
+Louis
+Bernice
+Osborn
+Connor
+Jack
+Vicky
 ]0;ka-son@kason-Lenovo-IdeaPad-S300: ~/Documents/Java/FileOIka-son@kason-Lenovo-IdeaPad-S300:~/Documents/Java/FileOI$ exit
 exit
 
-Script done on Sun 02 Jun 2013 11:09:39 PM CDT
+Script done on Mon 03 Jun 2013 05:05:08 PM CDT

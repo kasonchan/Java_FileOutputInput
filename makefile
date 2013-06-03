@@ -1,5 +1,8 @@
 FileOI:
-	javac FileOI.java
+	javac FileOI.java 
+
+FileOIDemo:
+	javac FileOIDemo.java
 
 clean:
 	rm -f *.class
